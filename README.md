@@ -1,4 +1,4 @@
-<h1>TODOLIST WITH REACT and REDUX</h1>
+<h1>TODOLIST WITH REACT and REDUX.</h1>
 
 <h3>This site was made by using REDUX.</h3>
 
@@ -85,4 +85,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# todo-with-redux
 # todo-with-redux
