@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #29445D;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  color: #fdfdfb;
+}
+.input1{
+  width: 350px;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  font-size: 20px;
+  color: #29445D;
+}
+.btnGo{
+  padding: 12px;
+  border-radius: 25px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20px;
+  background-color: #fff;
+  border: none;
+  color: #29445D;
+}
+.deleteBtn{
+  border-radius: 25px;
+  padding: 10px;
+  border: 1px solid rgb(236, 101, 51);
+  color: rgb(255, 123, 74);
+  font-size: 14px;
+  background-color: #f7f7f7;
+  font-weight: 600;
+}
+
+.singleTodo{
+  border-radius: 50px;
+  margin: 10px 0;
+  background-color: #f7f7f7;
+  color: #29445D;
+  font-size: 20px;
+  padding: 10px 20px;
+  display: flex;
+  width: 550px;
+  align-items: center;
+  justify-content: space-between;
+}
+.allTodos{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
